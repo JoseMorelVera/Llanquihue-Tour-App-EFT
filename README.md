@@ -1,1 +1,5 @@
-# Llanquihue-Tour-App-EFT
+🧠 Evaluacion Final de desarrollo orientado a objetos 👤 Autor del proyecto Nombre completo: Jose Ignacio Morel Vera Carrera: Desarrollo de aplicaciones Sede: Online
+
+📘 Descripción general del sistema: El trabajo final se encuentra orientado a la un sistema avanzado el cual se encarga de realizar distintas funciones, esto con la ayuda de diversas clases que contienen herencia para poder seguir avanzando con el proyecto cuando sea necesario, además de clases encargadas de contener las listas dinamicas para guardar los objetos creados y también con clases que se encargan de realizar la validacion de ciertos datos como el Rut. Todo esto orientado a un proyecto avanzado que nos permite continuar con el a medida que las situaciones sean necesarias, como guardar datos que luego se pueden revisar o ampliar el proyecto con la reutilizar de clases ya existentes. 
+
+🧱 Estructura general del proyecto 📁 src/ ├── IU/ # Clase principal con el método main ├── model/ # Clases de dominio (Cliente, Guia, Persona, Proveedor, Registrable, ) ├── data/ # Clases para crear el ArrayList y creacion de objetos (GestorDatos) ├──util/ # Clase de validacion (RutInvalidoException, Validador)
